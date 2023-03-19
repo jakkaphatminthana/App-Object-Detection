@@ -1,4 +1,6 @@
-# flutter_ml_kit
+# flutter_object_detection
+
+## flutter + ML kit + tenserflow
 
 A new Flutter project.
 
